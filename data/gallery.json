@@ -39,6 +39,15 @@
           "/gallery/2026-1/picnic_2.JPG"
         ]
       }
+      {
+        "id": "2026-birthday",
+        "date": "2026",
+        "caption": "🎂 Happy Birthday 🎂",
+        "photos": [
+          "/gallery/2026-0/birthday_1.JPG",
+          "/gallery/2026-0/birthday_2.PNG"
+        ]
+      }
     ]
   },
   {
