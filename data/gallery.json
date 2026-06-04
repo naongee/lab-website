@@ -3,6 +3,22 @@
     "year": 2026,
     "events": [
       {
+        "id": "2026-sulbing",
+        "date": "April 10, 2026",
+        "caption": "Sulbing 🍨😋",
+        "photos": [
+          "/gallery/2026-1/sulbing_1.JPG",
+          "/gallery/2026-1/sulbing_2.JPG",
+          "/gallery/2026-1/sulbing_3.JPG",
+          "/gallery/2026-1/sulbing_4.JPG",
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2026,
+    "events": [
+      {
         "id": "2026-picnic",
         "date": "April 2, 2026",
         "caption": "🌸 Annual Spring Picnic 🌸",
