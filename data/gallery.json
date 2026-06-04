@@ -1,7 +1,13 @@
 [
   {
     "year": 2026,
-    "events": []
+    "events": [
+      {
+        "id": "2025-yearend",
+        "date": "December 30, 2025",
+        "caption": "Year-end Workshop 👋",
+        "photos": [
+          "/gallery/2026-1/Team photo.jpg"]
   },
   {
     "year": 2025,
