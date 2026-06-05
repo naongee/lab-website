@@ -53,7 +53,7 @@
       "venue": "Science Advances",
       "venueColor": "#c00000",
       "details": "12, eaeb5934 (2026)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/sciadv.aeb5934.pdf",
+      "pdf": "/publications/Microrobotic copper-rich electrochemical interfacing for targeted cancer theranostics in the gut.pdf",
       "year": 2026
     },
     {
@@ -64,7 +64,7 @@
       "venue": "Advanced Functional Materials",
       "venueColor": "#555",
       "details": "e27178 (2025)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/pixelation_free__monolithic_iontronic.pdf",
+      "pdf": "/publications/Pixelation-free, monolithic iontronic pressure sensors enabling large-area simultaneous pressure and position recognition via machine learning.pdf",
       "year": 2025
     },
     {
@@ -86,7 +86,7 @@
       "venue": "Advanced Functional Materials",
       "venueColor": "#555",
       "details": "34, 2406725 (2024)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/bidirectional_zero_poissons.pdf",
+      "pdf": "/publications/Bidirectional zero Poisson's ratio elastomers with self-deformable soft mechanical metamaterials for stretchable displays.pdf",
       "year": 2024
     },
     {
@@ -97,7 +97,7 @@
       "venue": "Nature Communications",
       "venueColor": "#c00000",
       "details": "15, 2933 (2024)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/integrated_mechanical_computing.pdf",
+      "pdf": "/publications/Integrated mechanical computing for autonomous soft machine.pdf",
       "year": 2024
     },
     {
@@ -108,7 +108,7 @@
       "venue": "Nature Communications",
       "venueColor": "#c00000",
       "details": "14, 8208 (2023)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/micro_and_nanofabrication.pdf",
+      "pdf": "/publications/Micro- and nanofabrication of dynamic hydrogels with multichannel information.pdf",
       "year": 2023
     },
     {
@@ -119,7 +119,7 @@
       "venue": "Advanced Materials",
       "venueColor": "#c00000",
       "details": "35, 2304825 (2023)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/magnetic_putty.pdf",
+      "pdf": "/publications/Magnetic putty as a reconfigurable, recyclable, and accessible soft robotic material.pdf",
       "year": 2023
     },
     {
@@ -130,7 +130,7 @@
       "venue": "Advanced Intelligent Systems",
       "venueColor": "#555",
       "details": "5, 2300013 (2023)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/reconfigurable_innervation.pdf",
+      "pdf": "/publications/Reconfigurable innervation of modular soft machines via soft, sticky, and instant electronic adhesive interlocking.pdf",
       "year": 2023,
       "note": "Front Cover Article"
     },
@@ -142,7 +142,7 @@
       "venue": "IEEE Robot. Autom. Lett.",
       "venueColor": "#555",
       "details": "8, 864 (2022)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/deployable_soft_origami.pdf",
+      "pdf": "/publications/Deployable soft origami modular robotic arm with variable stiffness using facet buckling.pdf",
       "year": 2022
     },
     {
@@ -153,7 +153,7 @@
       "venue": "Advanced Materials Technologies",
       "venueColor": "#555",
       "details": "6, 2100133 (2021)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/4d_printing_of_continuous.pdf",
+      "pdf": "/publications/4D printing of continuous shape representation.pdf",
       "year": 2021,
       "note": "Front Cover Article"
     },
@@ -165,7 +165,7 @@
       "venue": "Science Robotics",
       "venueColor": "#c00000",
       "details": "6, eabe0637 (2021)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/underwater_maneuvering.pdf",
+      "pdf": "/publications/Underwater maneuvering of robotic sheets through buoyancy-mediated active flutter.pdf",
       "year": 2021
     },
     {
@@ -176,7 +176,7 @@
       "venue": "Nature Communications",
       "venueColor": "#c00000",
       "details": "11, 663 (2020)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/ultraflexible_and_transparent.pdf",
+      "pdf": "/publications/Ultraflexible and transparent electroluminescent skin for real-time and super-resolution imaging of pressure distribution.pdf",
       "year": 2020
     },
     {
@@ -187,7 +187,7 @@
       "venue": "Journal of Information Display",
       "venueColor": "#555",
       "details": "21, 41 (2019)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/stretchable_strain_tolerant.pdf",
+      "pdf": "/publications/Stretchable strain-tolerant soft printed circuit board A systematic approach for design rules of stretchable interconnects.pdf",
       "year": 2019
     },
     {
@@ -198,7 +198,7 @@
       "venue": "Science Robotics",
       "venueColor": "#c00000",
       "details": "4, eaay3493 (2019)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/bioinspired_dual_morphing.pdf",
+      "pdf": "/publications/Bioinspired Dual-morphing Stretchable Origami.pdf",
       "year": 2019,
       "note": "Front Cover Article"
     },
