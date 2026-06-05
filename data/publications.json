@@ -210,7 +210,7 @@
       "venue": "Advanced Science",
       "venueColor": "#555",
       "details": "6, 1801682 (2019)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/soft_modular_electronic_blocks.pdf",
+      "pdf": "/publications/soft_modular_electronic_blocks.pdf",
       "year": 2019,
       "note": "Front Cover Article"
     },
@@ -222,7 +222,7 @@
       "venue": "Advanced Functional Materials",
       "venueColor": "#555",
       "details": "28, 1806014 (2018)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/highly_reliable_liquid_metal.pdf",
+      "pdf": "/publications/highly_reliable_liquid_metal.pdf",
       "year": 2018,
       "note": "Inside Front Cover Article"
     },
@@ -234,7 +234,7 @@
       "venue": "Advanced Materials",
       "venueColor": "#c00000",
       "details": "30, 1802190 (2018)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/artificial_soft_elastic_media.pdf",
+      "pdf": "/publications/artificial_soft_elastic_media.pdf",
       "year": 2018,
       "note": "Back Cover Article"
     },
@@ -246,7 +246,7 @@
       "venue": "ACS Nano",
       "venueColor": "#555",
       "details": "12, 7109 (2018)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/two_dimensional_thickness.pdf",
+      "pdf": "/publications/two_dimensional_thickness.pdf",
       "year": 2018
     },
     {
@@ -257,7 +257,7 @@
       "venue": "Science Robotics",
       "venueColor": "#c00000",
       "details": "3, eaas9020 (2018)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/electronic_skins_for_soft.pdf",
+      "pdf": "/publications/electronic_skins_for_soft.pdf",
       "year": 2018
     },
     {
@@ -268,7 +268,7 @@
       "venue": "Optics Express",
       "venueColor": "#555",
       "details": "26, 824 (2018)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/printed_cylindrical_lens.pdf",
+      "pdf": "/publications/printed_cylindrical_lens.pdf",
       "year": 2018
     },
     {
@@ -279,7 +279,7 @@
       "venue": "Advanced Functional Materials",
       "venueColor": "#555",
       "details": "27, 1701912 (2017)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/a_single_droplet_printed.pdf",
+      "pdf": "/publications/a_single_droplet_printed.pdf",
       "year": 2017
     },
     {
@@ -290,7 +290,7 @@
       "venue": "Scientific Reports",
       "venueColor": "#555",
       "details": "7, 45328 (2017)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/fully_printable_strain.pdf",
+      "pdf": "/publications/fully_printable_strain.pdf",
       "year": 2017
     },
     {
@@ -301,7 +301,7 @@
       "venue": "Advanced Electronic Materials",
       "venueColor": "#555",
       "details": "3, 1600517 (2017)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/modulus_gradient_conductive.pdf",
+      "pdf": "/publications/modulus_gradient_conductive.pdf",
       "year": 2017
     },
     {
@@ -312,7 +312,7 @@
       "venue": "Scientific Reports",
       "venueColor": "#555",
       "details": "6, 34632 (2016)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/revisit_to_three_dimensional.pdf",
+      "pdf": "/publications/revisit_to_three_dimensional.pdf",
       "year": 2016
     },
     {
@@ -323,7 +323,7 @@
       "venue": "Nanoscale",
       "venueColor": "#555",
       "details": "7, 6208 (2015)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/silver_nanowire_embedded.pdf",
+      "pdf": "/publications/silver_nanowire_embedded.pdf",
       "year": 2015
     },
     {
@@ -334,7 +334,7 @@
       "venue": "Advanced Materials",
       "venueColor": "#c00000",
       "details": "26, 3094 (2014)",
-      "pdf": "http://www.junghwanbyun.com/uploads/1/3/0/1/130188250/negatively_strain_dependent.pdf",
+      "pdf": "/publications/negatively_strain_dependent.pdf",
       "year": 2014,
       "note": "Front Cover Article"
     }
