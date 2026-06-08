@@ -4,6 +4,7 @@ import Header from "../components/Header";
 import { ThemeProvider } from "../components/ThemeProvider";
 import lab from "../../data/lab.json";
 import Image from "next/image";
+import { Analytics } from "@vercel/analytics/next";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -65,6 +66,7 @@ export default function RootLayout({ children }) {
           </footer>
 
         </ThemeProvider>
+        <Analytics />
       </body>
     </html>
   );
