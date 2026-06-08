@@ -5,6 +5,7 @@ import { ThemeProvider } from "../components/ThemeProvider";
 import lab from "../../data/lab.json";
 import Image from "next/image";
 import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -67,6 +68,7 @@ export default function RootLayout({ children }) {
 
         </ThemeProvider>
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
