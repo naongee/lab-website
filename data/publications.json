@@ -15,10 +15,29 @@
     },
     {
       "id": 3,
-      "image": "/covers/scirobot2-2018.png",
-      "journal": "Sci. Robot. 2018",
+      "image": "/covers/advsci-2019.jpg",
+      "journal": "Adv. Sci. 2019",
+      "pubId": 8
+    },
+    {
+      "id": 4,
+      "image": "/covers/afm-2018.jpg",
+      "journal": "Adv. Func. Mater. 2018",
+      "pubId": 8
+    },
+    {
+      "id": 5,
+      "image": "/covers/am-2018.jpg",
+      "journal": "Adv. Mater. 2018",
+      "pubId": 8
+    },
+    {
+      "id": 6,
+      "image": "/covers/am-2014.jpg",
+      "journal": "Adv. Mater. 2014",
       "pubId": 8
     }
+    
   ],
   "list": [
     {
