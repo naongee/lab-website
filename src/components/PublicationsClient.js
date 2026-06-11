@@ -53,9 +53,14 @@ export default function PublicationsClient({ googleScholar, covers, list }) {
       <div
         style={{
           width: "100%",
+          height: "195px",
           overflowX: "auto",
-          paddingBottom: "6px",
+          overflowY: "hidden",
+          padding: 0,
+          margin: 0,
+          borderTop: "1px solid var(--border)",
           borderBottom: "1px solid var(--border)",
+          lineHeight: 0,
         }}
       >
         <div
@@ -63,7 +68,9 @@ export default function PublicationsClient({ googleScholar, covers, list }) {
             display: "flex",
             gap: "0",
             width: "max-content",
+            height: "100%",
             margin: "0 auto",
+            alignItems: "stretch",
           }}
         >
           {covers.map((cover) => (
@@ -73,9 +80,11 @@ export default function PublicationsClient({ googleScholar, covers, list }) {
               style={{
                 flex: "0 0 auto",
                 width: "130px",
-                height: "195px",
+                height: "100%",
                 position: "relative",
                 overflow: "hidden",
+                margin: 0,
+                padding: 0,
               }}
             >
               <Image
@@ -85,6 +94,7 @@ export default function PublicationsClient({ googleScholar, covers, list }) {
                 sizes="130px"
                 style={{
                   objectFit: "cover",
+                  display: "block",
                 }}
               />
             </div>
