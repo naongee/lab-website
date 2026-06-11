@@ -3,45 +3,9 @@
   "covers": [
     {
       "id": 1,
-      "image": "/covers/natcomm2-2024.png",
-      "journal": "Nat. Commun. 2024",
-      "pubId": 22
-    },
-    {
-      "id": 2,
-      "image": "/covers/advintelsyst-2023.png",
-      "journal": "Adv. Intell. Syst. 2023",
-      "pubId": 19
-    },
-    {
-      "id": 3,
-      "image": "/covers/natcomm-2023.png",
-      "journal": "Nat. Commun. 2023",
-      "pubId": 21
-    },
-    {
-      "id": 4,
-      "image": "/covers/scirobot-2021.png",
-      "journal": "Sci. Robot. 2021",
-      "pubId": 16
-    },
-    {
-      "id": 5,
-      "image": "/covers/scirobot-2019.png",
-      "journal": "Sci. Robot. 2019",
-      "pubId": 13
-    },
-    {
-      "id": 6,
-      "image": "/covers/amt-2021.png",
-      "journal": "Adv. Mat. Tech. 2021",
-      "pubId": 17
-    },
-    {
-      "id": 7,
-      "image": "/covers/scirobot2-2018.png",
-      "journal": "Sci. Robot. 2018",
-      "pubId": 8
+      "image": "/covers/CoverArts.png",
+      "journal": " ",
+      "pubId":
     }
   ],
   "list": [
