@@ -23,19 +23,19 @@
       "id": 4,
       "image": "/covers/afm-2018.jpg",
       "journal": "Adv. Func. Mater. 2018",
-      "pubId": 8
+      "pubId": 1
     },
     {
       "id": 5,
       "image": "/covers/am-2018.jpg",
       "journal": "Adv. Mater. 2018",
-      "pubId": 8
+      "pubId": 2
     },
     {
       "id": 6,
       "image": "/covers/am-2014.jpg",
       "journal": "Adv. Mater. 2014",
-      "pubId": 8
+      "pubId": 3
     }
     
   ],
