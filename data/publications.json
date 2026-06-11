@@ -3,9 +3,7 @@
   "covers": [
     {
       "id": 1,
-      "image": "/covers/CoverArts.png",
-      "journal": " sci",
-      "pubId": 0
+      "image": "/covers/CoverArts.png"
     }
   ],
   "list": [
