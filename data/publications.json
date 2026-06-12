@@ -17,25 +17,25 @@
       "id": 3,
       "image": "/covers/advsci-2019.jpg",
       "journal": "Adv. Sci. 2019",
-      "pubId": 8
+      "pubId": 12
     },
     {
       "id": 4,
       "image": "/covers/afm-2018.jpg",
       "journal": "Adv. Func. Mater. 2018",
-      "pubId": 1
+      "pubId": 11
     },
     {
       "id": 5,
       "image": "/covers/am-2018.jpg",
       "journal": "Adv. Mater. 2018",
-      "pubId": 2
+      "pubId": 10
     },
     {
       "id": 6,
       "image": "/covers/am-2014.jpg",
       "journal": "Adv. Mater. 2014",
-      "pubId": 3
+      "pubId": 1
     }
     
   ],
