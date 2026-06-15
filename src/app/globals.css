@@ -16,10 +16,10 @@ img { display: block; max-width: 100%; }
   --surface-glass: rgba(255,255,255,0.80);
   --border:        #e2e4e8;
   --text:          #1a1a2e;
-  --text-secondary:#97CD97;
+  --text-secondary:#4a5568;
   --text-muted:    #718096;
-  --accent:        #345C32;
-  --accent-hover:  #1e3f72;
+  --accent:        #618764;
+  --accent-hover:  #2B5748;
   --accent-soft:   rgba(43,87,154,0.08);
   --accent2:       #7030A0;
   --accent2-soft:  rgba(112,48,160,0.08);
