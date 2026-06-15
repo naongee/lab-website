@@ -99,7 +99,7 @@ export default function IntroOverlay() {
         <div style={{
           width: '40px',
           height: '2px',
-          background: 'DCDCDC',
+          background: '#DCDCDC',
           margin: '1.5rem auto 0',
           borderRadius: '2px',
           animation: 'introLine 0.6s 0.4s cubic-bezier(0.22, 1, 0.36, 1) both',
