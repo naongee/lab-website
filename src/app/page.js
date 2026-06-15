@@ -11,15 +11,46 @@ import IntroOverlay from "../components/IntroOverlay";
 const researchHighlightCovers = [
   {
       "id": 1,
-      "image": "/covers/scirobot-2019.jpg",
-      "journal": "Sci. Robot. 2019",
-      "pubId": 13
+      "image": "/covers/natcomm2-2024.png",
+      "journal": "Nat. Comm. 2024",
+      "pubId": 22
   },
   {
       "id": 2,
-      "image": "/covers/amt-2021.jpg",
+      "image": "/covers/advintelsyst-2023.png",
+      "journal": "Adv. Intel. Sys. 2023",
+      "pubId": 21
+  },
+  {
+      "id": 3,
+      "image": "/covers/natcomm-2023.png",
+      "journal": "Nat. Comm. 2023",
+      "pubId": 17
+  },
+  {
+      "id": 4,
+      "image": "/covers/amt-2021.png",
       "journal": "Adv. Mat. Tech. 2021",
       "pubId": 17
+  },
+  {
+      "id": 5,
+      "image": "/covers/scirobot-2021.png",
+      "journal": "Sci. Rob. 2021",
+      "pubId": 16
+  },
+  {
+      "id": 6,
+      "image": "/covers/scirobot-2019.png",
+      "journal": "Sci. Rob. 2019",
+      "pubId": 13
+  },
+  
+  {
+      "id": 7,
+      "image": "/covers/scirobot2-2018.png",
+      "journal": "Sci. Rob. 2018",
+      "pubId": 8
   },
 ];
 
