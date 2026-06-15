@@ -91,12 +91,12 @@ export default function Home() {
           </p>
           <div className="hero-btn" style={{ display: "flex", gap: "0.8rem", justifyContent: "center", flexWrap: "wrap" }}>
             <Link href="/research" className="btn-primary" style={{
-              width: "160px", textAlign: "center",
+              width: "165px", textAlign: "center",
               background: "rgba(255,255,255,0.15)", backdropFilter: "blur(8px)",
               border: "1px solid rgba(255,255,255,0.45)",
             }}>Our Research</Link>
             <Link href="/people" className="btn-primary" style={{
-              width: "160px", textAlign: "center",
+              width: "165px", textAlign: "center",
               background: "rgba(231,225,177,0.60)", border: "1px solid rgba(231,225,177,0.80)",
             }}>Meet the Team</Link>
           </div>
