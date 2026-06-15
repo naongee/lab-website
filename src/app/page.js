@@ -198,6 +198,9 @@ export default function Home() {
                   <ul style={{ listStyle: "none", padding: 0, margin: 0 }}>
                     {recentNews.map((item) => (
                       <li key={item.id} className="home-news-item">
+                        <strong style={{ fontWeight: 700, color: "var(--text)" }}>
+                          {item.date}
+                        </strong>{" "}
                         {item.text}
                       </li>
                     ))}
