@@ -53,6 +53,9 @@ export default function NewsPage() {
       <ul style={{ listStyle: "none", padding: 0, margin: 0 }}>
         {items.map((item) => (
           <li key={item.id} className="news-item">
+            <strong style={{ fontWeight: 700, color: "var(--text)" }}>
+              {item.date}
+            </strong>{" "}
             {item.text}
           </li>
         ))}
