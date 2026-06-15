@@ -8,6 +8,21 @@ import CoverSlideshow from "../components/CoverSlideshow";
 import ScrollReveal from "../components/ScrollReveal";
 import IntroOverlay from "../components/IntroOverlay";
 
+const researchHighlightCovers = [
+  {
+      "id": 1,
+      "image": "/covers/scirobot-2019.jpg",
+      "journal": "Sci. Robot. 2019",
+      "pubId": 13
+  },
+  {
+      "id": 2,
+      "image": "/covers/amt-2021.jpg",
+      "journal": "Adv. Mat. Tech. 2021",
+      "pubId": 17
+  },
+];
+
 export default function Home() {
   const recentNews = newsData.items.slice(0, 6);
 
@@ -127,7 +142,7 @@ export default function Home() {
                   <span style={{ color: "var(--accent)", marginRight: "0.4rem" }}>●</span>
                   Research Highlights
                 </h2>
-                <CoverSlideshow covers={pubData.covers} />
+                <CoverSlideshow covers={researchHighlightCovers} />
                 <div style={{ textAlign: "center", marginTop: "1.2rem" }}>
                   <Link href="/publications" style={{ fontSize: "0.82rem", color: "var(--accent)", fontWeight: 500 }}>
                     View all publications →
