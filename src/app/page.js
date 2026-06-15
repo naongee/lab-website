@@ -100,7 +100,7 @@ export default function Home() {
               border: "1px solid rgba(255,255,255,0.45)",
             }}>Our Research</Link>
             <Link href="/people" className="btn-primary" style={{
-              background: "rgba(231,225,177,0.60)", border: "1px solid rgba(43,87,154,0.6)",
+              background: "rgba(231,225,177,0.60)", border: "1px solid rgba(231,225,177,0.80)",
             }}>Meet the Team</Link>
           </div>
         </div>
