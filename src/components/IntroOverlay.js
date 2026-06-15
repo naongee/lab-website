@@ -49,11 +49,6 @@ export default function IntroOverlay() {
         userSelect: 'none',
       }}
     >
-      <div style={{
-        position: 'absolute', inset: 0,
-        backgroundImage: 'radial-gradient(rgba(255,255,255,0.04) 1px, transparent 1px)',
-        backgroundSize: '32px 32px',
-      }} />
 
       <div style={{
         position: 'relative',
