@@ -34,7 +34,7 @@ export default function CoverSlideshow({ covers }) {
 
     const timer = setInterval(() => {
       setCurrent((prev) => (prev + 1) % covers.length);
-    }, 3000);
+    }, 5000);
 
     return () => clearInterval(timer);
   }, [covers]);
