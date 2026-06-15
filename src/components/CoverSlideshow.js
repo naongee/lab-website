@@ -5,7 +5,7 @@ import Image from "next/image";
 import { useRouter } from "next/navigation";
 
 const AUTO_SLIDE_MS = 5000;
-const FADE_MS = 320;
+const FADE_MS = 500;
 
 export default function CoverSlideshow({ covers }) {
   const [current, setCurrent] = useState(0);
