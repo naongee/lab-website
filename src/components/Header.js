@@ -40,7 +40,7 @@ export default function Header() {
         <Link href="/" style={{ display: "flex", alignItems: "center", flexShrink: 0 }}>
           <div className="site-header-logo">
             <Image
-              src="/lab-logo1.png"
+              src="/logo_7E9181_upscaling.png"
               alt="BIRD Lab logo"
               width={160}
               height={52}
