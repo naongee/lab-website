@@ -1,19 +1,36 @@
 'use client';
 
-import { useEffect, useState, useCallback } from "react";
+import { useEffect, useState, useCallback, useRef } from "react";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
 
+const AUTO_SLIDE_MS = 5000;
+const FADE_MS = 320;
+
 export default function CoverSlideshow({ covers }) {
   const [current, setCurrent] = useState(0);
+  const [fading, setFading] = useState(false);
   const router = useRouter();
+  const fadeTimerRef = useRef(null);
+
+  const total = covers?.length || 0;
 
   const go = useCallback(
     (next) => {
-      if (!covers || covers.length === 0) return;
-      setCurrent((next + covers.length) % covers.length);
+      if (!covers || total === 0 || fading) return;
+
+      setFading(true);
+
+      clearTimeout(fadeTimerRef.current);
+      fadeTimerRef.current = setTimeout(() => {
+        setCurrent((next + total) % total);
+
+        requestAnimationFrame(() => {
+          setFading(false);
+        });
+      }, FADE_MS);
     },
-    [covers]
+    [covers, total, fading]
   );
 
   // 이미지 미리 로딩해서 넘어갈 때 버벅임 줄이기
@@ -33,11 +50,18 @@ export default function CoverSlideshow({ covers }) {
     if (!covers || covers.length <= 1) return;
 
     const timer = setInterval(() => {
-      setCurrent((prev) => (prev + 1) % covers.length);
-    }, 5000);
+      go(current + 1);
+    }, AUTO_SLIDE_MS);
 
     return () => clearInterval(timer);
-  }, [covers]);
+  }, [covers, current, go]);
+
+  // 타이머 정리
+  useEffect(() => {
+    return () => {
+      clearTimeout(fadeTimerRef.current);
+    };
+  }, []);
 
   if (!covers || covers.length === 0) return null;
 
@@ -111,6 +135,7 @@ export default function CoverSlideshow({ covers }) {
           }}
         >
           <Image
+            key={cover.image}
             src={cover.image}
             alt={cover.journal || "Research highlight"}
             fill
@@ -118,6 +143,9 @@ export default function CoverSlideshow({ covers }) {
             style={{
               objectFit: "contain",
               padding: "8px",
+              opacity: fading ? 0 : 1,
+              transform: fading ? "scale(0.985)" : "scale(1)",
+              transition: `opacity ${FADE_MS}ms ease-in-out, transform ${FADE_MS}ms ease-in-out`,
             }}
           />
         </div>
@@ -161,6 +189,8 @@ export default function CoverSlideshow({ covers }) {
           color: "var(--text-muted)",
           letterSpacing: "0.04em",
           textAlign: "center",
+          opacity: fading ? 0 : 1,
+          transition: `opacity ${FADE_MS}ms ease-in-out`,
         }}
       >
         {cover.journal}
