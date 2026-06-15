@@ -117,7 +117,7 @@ export default function Home() {
           </p>
         </section>
       </ScrollReveal>
-
+/*
       {/* ── MEET THE TEAM ── */}
       <ScrollReveal delay={200}>
         <section style={{ maxWidth: "860px", margin: "0 auto", padding: "1.5rem 2rem 3rem" }}>
@@ -150,7 +150,7 @@ export default function Home() {
           </div>
         </section>
       </ScrollReveal>
-
+*/
       {/* ── RESEARCH HIGHLIGHTS + RECENT NEWS + JOIN OUR GROUP ── */}
       <ScrollReveal delay={400}>
         <section style={{ padding: "1rem 2rem 4rem" }}>
