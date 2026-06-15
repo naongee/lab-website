@@ -71,11 +71,6 @@ export default function Home() {
           position: "absolute", inset: 0, zIndex: 1,
           background: "linear-gradient(160deg,rgba(0,0,0,0.60) 0%,rgba(0,0,0,0.38) 60%,rgba(43,87,154,0.35) 100%)",
         }} />
-        <div style={{
-          position: "absolute", inset: 0, zIndex: 1,
-          backgroundImage: "radial-gradient(rgba(255,255,255,0.06) 1px,transparent 1px)",
-          backgroundSize: "32px 32px",
-        }} />
         <div style={{ position: "relative", zIndex: 2, textAlign: "center", color: "#fff", padding: "2rem 1.5rem", maxWidth: "860px" }}>
           <h1 className="hero-title" style={{
             fontSize: "clamp(1.8rem,4.5vw,3.2rem)", fontWeight: 100,
