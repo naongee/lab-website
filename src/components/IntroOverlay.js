@@ -38,7 +38,7 @@ export default function IntroOverlay() {
         position: 'fixed',
         inset: 0,
         zIndex: 9999,
-        background: '#848484',
+        background: '#4d4d4d',
         display: 'flex',
         flexDirection: 'column',
         alignItems: 'center',
