@@ -18,8 +18,8 @@ img { display: block; max-width: 100%; }
   --text:          #1a1a2e;
   --text-secondary:#4a5568;
   --text-muted:    #718096;
-  --accent:        #84a0dc;
-  --accent-hover:  #192668;
+  --accent:        #618764;
+  --accent-hover:  #2B5748;
   --accent-soft:   rgba(43,87,154,0.08);
   --accent2:       #7030A0;
   --accent2-soft:  rgba(112,48,160,0.08);
