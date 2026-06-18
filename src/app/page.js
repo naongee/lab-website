@@ -110,7 +110,7 @@ export default function Home() {
 
       {/* ── INTRO ── */}
       <ScrollReveal delay={0}>
-        <section style={{ maxWidth: "860px", margin: "0 auto", padding: "4rem 2rem 2rem" }}>
+        <section style={{ maxWidth: "1100px", margin: "0 auto", padding: "4rem 2rem 2rem" }}>
           <p style={{ fontSize: "1.1rem", color: "var(--accent)", fontWeight: 500, lineHeight: 1.6, marginBottom: "1.2rem" }}>
             {lab.title1}
           </p>
@@ -121,9 +121,9 @@ export default function Home() {
       </ScrollReveal>
 
       {/* ── MEET THE TEAM ── */}
-{false && (
+{true && (
       <ScrollReveal delay={200}>
-        <section style={{ maxWidth: "860px", margin: "0 auto", padding: "1.5rem 2rem 3rem" }}>
+        <section style={{ maxWidth: "1100px", margin: "0 auto", padding: "1.5rem 2rem 3rem" }}>
           <div style={{
             background: "var(--bg-alt)", border: "1px solid var(--border)", borderRadius: "8px",
             overflow: "hidden", display: "flex", alignItems: "stretch", flexWrap: "wrap",
