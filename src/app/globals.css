@@ -43,13 +43,13 @@ img { display: block; max-width: 100%; }
   --text-secondary:#8b949e;
   --text-muted:    #6e7681;
   --accent:        #fef8cb;
-  --accent-hover:  #79b8ff;
+  --accent-hover:  #966d00;
   --accent-soft:   rgba(88,166,255,0.12);
   --accent2:       #bc8cff;
   --accent2-soft:  rgba(188,140,255,0.12);
   --red:           #ff7b72;
   --header-bg:     rgba(13,17,23,0.92);
-  --nav-underline: #58a6ff;
+  --nav-underline: #fef8cb;
   --shadow-sm:     0 1px 4px rgba(0,0,0,0.35);
   --shadow-md:     0 4px 18px rgba(0,0,0,0.45);
   --shadow-lg:     0 12px 36px rgba(0,0,0,0.55);
