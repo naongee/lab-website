@@ -130,7 +130,7 @@ export default function Home() {
           }}>
             <div className="meet-team-photo">
               <Image
-                src="/Team photo.jpg"
+                src="/gallery/2026-3/GCIM_9.JPG"
                 alt="BIRD Lab team"
                 fill
                 sizes="(max-width: 860px) 100vw, 350px"
