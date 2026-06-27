@@ -123,18 +123,6 @@
       "education": "Materials Science & Engineering, Hanyang University",
       "researchInterests": "Micro-robots",
       "bio": ""
-    },
-    {
-      "id": "park-boae",
-      "name": "Boae Park",
-      "role": "Undergraduate Intern",
-      "category": "intern",
-      "photo": "/people/park-boae.png",
-      "email": "",
-      "tagline": "",
-      "education": "Electronic Engineering, Hanyang University",
-      "researchInterests": "Micro-robots / HASEL",
-      "bio": ""
     }
   ],
   "alumni": [
@@ -149,6 +137,12 @@
       "name": "Junhyeong Park",
       "period": "Undergraduate Intern (Mar. 2025 ~ Jun. 2025)",
       "current": "KAIST"
+    },
+    {
+      "id": "park-boae",
+      "name": "Boae Park",
+      "period": "Undergraduate Intern (Mar. 2026 ~ Jun. 2026)",
+      "current": "Hanyang University"
     }
   ]
 }
