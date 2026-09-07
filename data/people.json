@@ -53,6 +53,18 @@
       "bio": ""
     },
     {
+      "id": "seong-myeongryun",
+      "name": "Myeongryun Seong, Ph.D.",
+      "role": "Postdoctoral Associate",
+      "category": "postdoc",
+      "photo": "",
+      "email": "",
+      "tagline": "",
+      "education": "Ph.D. Mechanical Engineering, Pohang University of Science and Technology\nB.S. Mechanical Engineering, Pohang University of Science and Technology",
+      "researchInterests": "Soft robots",
+      "bio": ""
+    },
+    {
       "id": "kang-wonkyeong",
       "name": "Wonkyeong Kang",
       "role": "Graduate Student",
