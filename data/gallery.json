@@ -3,6 +3,16 @@
     "year": 2026,
     "events": [
       {
+        "id": "dinner",
+        "date": "September 15, 2026",
+        "caption": "Team gathering😙",
+        "photos": [
+          "/gallery/2026-5/dinner1.JPG",
+          "/gallery/2026-5/dinner2.JPG",
+          "/gallery/2026-5/dinner3.JPG"
+        ]
+      },
+      {
         "id": "2026-gcim-2",
         "date": "May 31 - June 3, 2026",
         "caption": "A collection of memorable moments in Jeju🫰💖",
