@@ -4,6 +4,14 @@
     "events": [
       {
         "id": "dinner",
+        "date": "October 16, 2026",
+        "caption": "KIST Spirit 🤓",
+        "photos": [
+          "/gallery/2026-6/sportsday.JPG"
+        ]
+      },
+      {
+        "id": "dinner",
         "date": "September 15, 2026",
         "caption": "Team gathering😙",
         "photos": [
